@@ -6,6 +6,11 @@ PrismaOS is a Debian-based Linux operating system designed with inclusivity at i
 
 PrismaOS is developed by PT Sinergi Kreasi Inovasi Global with a focus on creating an accessible and user-friendly operating system for everyone. Our mission is to provide a computing platform that works for all users, regardless of their abilities or technical expertise.
 
+
+## Built-in Security Features
+
+PrismaOS comes with robust security features to keep your system safe and secure. One of the highlights is **PrismaOS Safe**, a built-in antivirus solution. PrismaOS Safe offers advanced deep scan capabilities for laptops and desktops, combining the strengths of solutions like Windows Defender and BitDefender. It is designed to detect, quarantine, and remove threats efficiently, providing real-time protection and peace of mind for all users.
+
 ## Key Features
 
 ### Inclusive Design
